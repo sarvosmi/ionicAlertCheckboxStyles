@@ -1,0 +1,7 @@
+{
+  "name": "alertCheckboxStyles",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
